@@ -1,0 +1,51 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.eicon {
+  margin-left: -51px;
+  float: left;
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 28px;
+}
+.eclass {
+  margin-top: -14px;
+  display: inline-block;
+  width: 90%;
+  margin-right: -20px;
+}
+.picon {
+  margin-left: -51px;
+  float: left;
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 28px;
+}
+.pclass {
+  margin-top: -14px;
+  display: inline-block;
+  width: 90%;
+}
+.sbutton {
+  display: inline-block;
+  width: 84%;
+  margin-left: 28px;
+}
+.ep {
+  padding-left: 44px;
+}
+.fblogin {
+  width: 267px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  accent-color: aliceblue;
+}
+.twlogin {
+  display: inline-block;
+  width: 84%;
+  margin-left: 59px;
+}
